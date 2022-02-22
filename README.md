@@ -16,5 +16,5 @@
   <img width="180" alt="kc" src="https://user-images.githubusercontent.com/19377312/155071084-dfa525e7-f669-4b32-9428-ec3ddabbcc0a.png">
   
   We're hiring!<br/><br/>
-  Come join the team at <a href="kittycad.io">KittyCAD</a> and our <a href="https://kittycad.io/blog/introducing-kittycad">mission</a> of Bringing Code to Hardware Design!
+  Come join the team at <a href="https://kittycad.io">KittyCAD</a> and our <a href="https://kittycad.io/blog/introducing-kittycad">mission</a> of Bringing Code to Hardware Design!
 </div>
