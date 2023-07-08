@@ -4,5 +4,5 @@
   <br/><br/>
   Happy coding everyone
   <br/>
-  - <a href="https://hanbo.dev">@hanbollar</a>
+  - <a href="https://hanbollar.dev">@hanbollar</a>
 </div>
