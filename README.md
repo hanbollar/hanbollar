@@ -1,6 +1,5 @@
 <div align="center">
-  👋 &nbsp;<i>Hiya and Welcome!</i>
-  <br/><br/>
+  <h3>👋 &nbsp;<i>Hiya and Welcome!</i></h3>
   I'm an avid builder, educator, and graphics enthusiast
   <br/>
   whose free time is filled with fitness, reading, and anything dog-related.
