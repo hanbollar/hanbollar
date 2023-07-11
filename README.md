@@ -5,9 +5,9 @@
   whose free time is filled with fitness, reading, and anything dog-related.
   <br/>
   <br/>
-  Happy coding everyone ~
+  Happy coding everyone
   <br/>
-  - <a href="https://hanbollar.dev">@hanbollar</a>
+  ~ <a href="https://hanbollar.dev">@hanbollar</a>
   <h2></h2>
   <sub><i>🛠️ Builder at the synergetic intersection of 🌱 Physics, 🎨 Art, && 🖥️ Code</i></sub>
 </div>
