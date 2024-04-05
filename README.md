@@ -5,6 +5,11 @@
   whose free time is filled with fitness, reading, and anything dog-related.
   <br/>
   <br/>
+  Currently, I'm focused on <a href="https://volumetrics.io" target="_blank">Volumetrics</a> and our work building out
+  <br/>
+  <a href="https://mrjs.io" target="_blank">MRjs</a>, THE mixed-reality-first web-based game-engine.
+  <br/>
+  <br/>
   Happy coding everyone
   <br/>
   ~ <a href="https://hanbollar.dev">@hanbollar</a>
