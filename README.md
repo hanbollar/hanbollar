@@ -9,7 +9,9 @@
   <br/>
   --> <a href="volu.dev" target="_blank">volu.dev</a> <--
   <br/>
-  and <a href="https://mrjs.io" target="_blank">MRjs</a>, THE mixed-reality-first web-based game-engine.
+  the place to build, share, and discover the spatial web <i>together</i>.
+<!--   <br/>
+  and <a href="https://mrjs.io" target="_blank">MRjs</a>, THE mixed-reality-first web-based game-engine. -->
   <br/>
   <br/>
   Happy coding everyone
