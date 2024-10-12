@@ -5,7 +5,7 @@
   whose free time is filled with fitness, reading, and anything dog-related.
   <br/>
   <br/>
-  Currently, I'm focused on <a href="https://volumetrics.io" target="_blank">Volumetrics</a> and our work building out
+  Currently, I'm focused on <code>Volumetrics</code> and our work building out
   <br/>
   --> <a href="volu.dev" target="_blank">volu.dev</a> <--
   <br/>
