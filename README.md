@@ -7,7 +7,7 @@
   <br/>
   Currently, I'm focused on <code>Volumetrics</code> and our work building out
   <br/>
-  --> <a href="volu.dev" target="_blank">volu.dev</a> <--
+  --> <a href="https://volu.dev" target="_blank">volu.dev</a> <--
   <br/>
   the place to build, share, and discover the spatial web <i>together</i>.
 <!--   <br/>
