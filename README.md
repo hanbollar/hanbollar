@@ -5,7 +5,7 @@
   whose free time is filled with fitness, reading, and anything dog-related.
   <br/>
   <br/>
-  Currently, I'm focused on <code>Pasteur Labs</code> and our work
+  Currently, I'm focused on <code><a href="https://pasteurlabs.ai/#about" target="_blank">Pasteur Labs</a></code> and our work
   <br/>--> Building the IDE for Reality <--<br/>
 <!--   <br/>
   and <a href="https://mrjs.io" target="_blank">MRjs</a>, THE mixed-reality-first web-based game-engine. -->
