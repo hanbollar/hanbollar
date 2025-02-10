@@ -1,3 +1,5 @@
+![GitHub User's stars](https://img.shields.io/github/stars/hanbollar)
+
 <div align="center">
   <h3>👋 &nbsp;<i>Hiya and Welcome!</i></h3>
   I'm an avid builder, educator, and graphics enthusiast
@@ -16,4 +18,5 @@
   ~ <a href="https://hanbollar.dev">@hanbollar</a>
   <h2></h2>
   <sub><i>🛠️ Builder at the synergetic intersection of 🌱 Physics, 🎨 Art, && 🖥️ Code</i></sub>
+  <h2></h2>
 </div>
